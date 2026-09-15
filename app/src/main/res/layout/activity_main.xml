@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:padding="24dp">
+    <TextView
+        android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:text="Sohail Boss Ka Assistant 👑" android:textSize="28sp" android:textStyle="bold"/>
+    <TextView
+        android:id="@+id/status" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginTop="18dp"
+        android:text="Bolo, main sun rahi hoon…" android:textSize="18sp"/>
+    <Button
+        android:id="@+id/mic" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginTop="28dp"
+        android:text="🎙 Bolo"/>
+    <Button
+        android:id="@+id/accessibility" android:layout_width="match_parent"
+        android:layout_height="wrap_content" android:layout_marginTop="12dp"
+        android:text="⚙️ Assistant Control Enable Karo"/>
+</LinearLayout>

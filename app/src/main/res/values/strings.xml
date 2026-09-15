@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sohail Boss Ka Assistant</string>
+    <string name="accessibility_description">Allows the assistant to interact with visible Android controls after the user enables Accessibility.</string>
+</resources>
